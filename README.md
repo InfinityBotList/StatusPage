@@ -1,4 +1,4 @@
-# 💹 Downtime
+# 💹 Infinity Response Time
 
 ## 🚥 Current status
 
