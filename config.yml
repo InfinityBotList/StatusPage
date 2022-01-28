@@ -3,19 +3,23 @@
 # "title" will be displayed as "human name" instead of "name" if specified
 # All defaults values can be overriden per host basis
 hosts:
-  # Example / test root domain
-  - name: diswidgets.org
+  - name: infinitybots.gg
     title: Main Site
-  # Example / test url
-  - name: beta.diswidgets.org
-    title: Beta Site
+  - name: api.infinitybotlist.com
+    title: API Site
+  - name: blog.botlist.app
+    title: Blog Site
+  - name: botlist.app
+    title: Apps Site
+  - name: docs.botlist.site
+    title: Docs Site
 
 # Site configuration
 site:
   # Title
-  title: DisWidgets Response Time
+  title: Infinity Response Time
   # Favicon / logo
-  favicon: https://beta.diswidgets.org/logo.png
+  favicon: https://cdn.infinitybots.xyz/images/png/Infinity5.png
   # Refresh rate of status images for client
   refresh_rate_sec: 120
 
